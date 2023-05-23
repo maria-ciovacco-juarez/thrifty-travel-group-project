@@ -1,0 +1,21 @@
+/* display change properies */
+
+body{
+  margin: 10px;
+}
+
+.image-resize{
+  height: 300px;
+  width: 1200px;
+  object-position: center;
+  object-fit: contain;
+  
+}
+
+.contact_us{
+  text-align: left;
+}
+
+.py-1{
+  background-color: rgb(255, 255, 255);
+}
